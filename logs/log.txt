@@ -1,0 +1,8 @@
+[2024-04-01 20:16:05] Failed login attempt: Email: Amirulhafiz.education@gmail.com, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+[2024-04-01 20:16:05] User Login attempt: Email: Amirulhafiz.education@gmail.com, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+[2024-04-01 20:16:12] User Logout: Email: Amirulhafiz.education@gmail.com, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+[2024-04-01 22:14:33] User Logout: Email: Amirulhafiz.education@gmail.com, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+[2024-04-01 22:14:57] User Logout: Email: Amirulhafiz.education@gmail.com, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+[2024-04-01 23:11:06] User Logout: Email: Amirulhafiz.education@gmail.com, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+[2024-04-01 23:16:37] Failed login attempt: Email: Amirulhafiz.education@gmail.com, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+[2024-04-01 23:16:37] User Login attempt: Email: Amirulhafiz.education@gmail.com, IP: 127.0.0.1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
